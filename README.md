@@ -1,3 +1,2 @@
-# My First Repository
-
-This is my first GitHub repository created for a class assignment.
+# javascript-coding-challenge-3
+JavaScript Objects and Arrays Coding Challenge
